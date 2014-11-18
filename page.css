@@ -1,0 +1,731 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(248, 247, 252);
+}
+
+#text {
+    float: left;
+    font-size: 10em;
+    width: 30.849156%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 34.532409%;
+    margin-top: 35px;
+    clear: none;
+    min-height: 0px;
+    font-family: 'Bodoni SvtyTwo ITC TT';
+}
+
+#text2 {
+    float: left;
+    font-size: 2.5em;
+    width: 23.11597%;
+    height: auto;
+    text-align: justify;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 22.884127%;
+    margin-top: 41.75px;
+    clear: both;
+    min-height: 616px;
+    font-family: 'lucida sans unicode';
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 26px;
+    clear: both;
+    color: rgb(0, 0, 0);
+}
+
+#text1 {
+    float: left;
+    font-size: 7em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 32.932692%;
+    margin-top: 52.5px;
+    clear: both;
+    min-height: 0px;
+    font-family: 'Bodoni SvtyTwo ITC TT';
+    margin-right: 0%;
+}
+
+#image1 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 8.145012%;
+    margin-top: 41.75px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    max-width: 24.577192%;
+}
+
+#text3 {
+    float: left;
+    font-size: 7em;
+    width: 17.88669%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 41.417537%;
+    margin-top: 58px;
+    clear: both;
+    min-height: 114px;
+    font-family: 'Bodoni SvtyTwo ITC TT';
+}
+
+#text5 {
+    float: left;
+    font-size: 7em;
+    width: 18.352206%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 40.988627%;
+    margin-top: 41.625px;
+    clear: both;
+    min-height: 114px;
+    font-family: 'Bodoni SvtyTwo ITC TT';
+    display: block;
+    margin-right: 0%;
+}
+
+#box {
+    float: left;
+    height: 3px;
+    margin-left: 14.668953%;
+    margin-top: 61.171875px;
+    clear: both;
+    width: 70.665756%;
+    background-color: rgb(109, 166, 150);
+}
+
+#image2 {
+    float: left;
+    width: auto;
+    max-width: 28.93157%;
+    height: auto;
+    margin-left: 17.093543%;
+    margin-top: 59.1875px;
+    clear: both;
+    color: rgb(0, 0, 0);
+}
+
+#image3 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 21.793245%;
+    margin-top: 50.125px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    max-width: 24.234918%;
+}
+
+#image4 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 21.793245%;
+    margin-top: 60.75px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    max-width: 24.209293%;
+}
+
+#textspan {
+    float: none;
+    font-size: 0.7em;
+    line-height: 1em;
+}
+
+#text6 {
+    float: left;
+    font-size: 2.5em;
+    width: 23.11597%;
+    height: auto;
+    text-align: justify;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 8.142571%;
+    margin-top: -620.65625px;
+    clear: none;
+    min-height: 708px;
+    font-family: 'lucida sans unicode';
+    display: block;
+    margin-right: 0%;
+}
+
+#textspan4 {
+    float: none;
+    font-size: 0.7em;
+    line-height: 1em;
+}
+
+#text4 {
+    float: left;
+    font-size: 2.5em;
+    width: 23.683986%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 7.551982%;
+    margin-top: 59.1875px;
+    clear: none;
+    min-height: 439px;
+}
+
+#textspan1 {
+    float: none;
+    font-size: 0.7em;
+    line-height: 1em;
+    font-family: 'lucida sans unicode';
+}
+
+#box1 {
+    float: left;
+    height: 3px;
+    margin-left: 8.497921%;
+    margin-top: 13px;
+    clear: both;
+    width: 82.933693%;
+    display: block;
+    background-color: rgb(109, 166, 150);
+    margin-right: 0%;
+}
+
+#box2 {
+    float: left;
+    height: 3px;
+    margin-left: 8.530405%;
+    margin-top: 14.046875px;
+    clear: both;
+    width: 82.933693%;
+    display: block;
+    margin-right: 0%;
+    background-color: rgb(109, 166, 150);
+}
+
+#textspan2 {
+    float: none;
+    font-size: 0.7em;
+    line-height: 1em;
+}
+
+@media only screen and (max-width: 2560px) {
+    #text2 {
+        margin-top: 27.5px;
+        margin-left: 17.080078%;
+        clear: both;
+        height: auto;
+        min-height: 512px;
+        width: 31.71875%;
+    }
+
+    #text {
+        height: auto;
+        width: 30.81604%;
+        margin-top: 29px;
+        margin-left: 34.632568%;
+        clear: none;
+    }
+
+    #image {
+        margin-top: 26px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #text1 {
+        float: left;
+        font-size: 10em;
+        width: auto;
+        height: auto;
+        text-align: left;
+        font-weight: normal;
+        line-height: 1em;
+        margin-left: 25.599365%;
+        margin-top: 72.75px;
+        clear: both;
+        min-height: 0px;
+        font-family: 'Bodoni SvtyTwo ITC TT';
+        margin-right: 0%;
+    }
+
+    #text5 {
+        width: 18.181152%;
+        display: block;
+        margin-top: 53.75px;
+        margin-right: 0%;
+        margin-left: 40.928955%;
+        clear: both;
+        height: auto;
+        min-height: 0px;
+    }
+
+    #text3 {
+        margin-top: 72.5px;
+        margin-left: 40.266113%;
+        clear: both;
+        font-size: 10em;
+        height: auto;
+        width: 25.17334%;
+    }
+
+    #box {
+        float: left;
+        height: 6px;
+        margin-left: 8.531494%;
+        margin-top: 53.9375px;
+        clear: both;
+        width: 82.933693%;
+        background-color: rgb(109, 166, 150);
+    }
+
+    #text6 {
+        margin-top: -313.53125px;
+        margin-left: 12.112427%;
+        clear: none;
+        height: auto;
+        min-height: 512px;
+        width: 31.71875%;
+        margin-right: 0%;
+    }
+
+    #image2 {
+        margin-top: 57.125px;
+        margin-left: 17.092896%;
+        clear: both;
+    }
+
+    #image3 {
+        margin-top: 41.875px;
+        margin-left: 17.355347%;
+        clear: both;
+    }
+
+    #image4 {
+        margin-top: 51.375px;
+        margin-left: 17.259521%;
+        clear: both;
+    }
+
+    #text4 {
+        margin-top: 57.125px;
+        margin-left: 7.55127%;
+        clear: none;
+        height: auto;
+        width: 32.169118%;
+        min-height: 321px;
+    }
+
+    #image1 {
+        margin-top: 40.6875px;
+        margin-left: 8.143921%;
+        clear: none;
+    }
+
+    #box1 {
+        float: left;
+        height: 6px;
+        margin-left: 8.531494%;
+        margin-top: 53.9375px;
+        clear: both;
+        width: 82.933693%;
+        background-color: rgb(109, 166, 150);
+    }
+
+    #box2 {
+        float: left;
+        height: 6px;
+        margin-left: 8.531494%;
+        margin-top: 53.9375px;
+        clear: both;
+        width: 82.933693%;
+        background-color: rgb(109, 166, 150);
+    }
+}
+
+@media only screen and (max-width: 1920px) {
+    #text {
+        height: auto;
+        width: 41.068753%;
+        margin-top: 31px;
+        margin-left: 29.546639%;
+        clear: none;
+    }
+
+    #text2 {
+        margin-top: 69.015625px;
+        margin-left: 17.063802%;
+        clear: both;
+    }
+
+    #text6 {
+        margin-top: -465.296875px;
+        margin-left: 12.565918%;
+        clear: none;
+        margin-right: 0%;
+    }
+
+    #image {
+        margin-top: 26px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #text1 {
+        margin-top: 72.375px;
+        margin-left: 17.355143%;
+        clear: both;
+    }
+
+    #box {
+        margin-top: 53.9375px;
+        margin-left: 8.531901%;
+        clear: both;
+    }
+
+    #text3 {
+        margin-top: 72.5px;
+        margin-left: 33.676758%;
+        clear: both;
+    }
+
+    #image2 {
+        margin-top: 57.125px;
+        margin-left: 17.093099%;
+        clear: both;
+    }
+
+    #text4 {
+        margin-top: 57.125px;
+        margin-left: 7.55127%;
+        clear: none;
+    }
+
+    #box1 {
+        margin-top: 53.9375px;
+        margin-left: 8.531901%;
+        clear: both;
+    }
+
+    #text5 {
+        margin-top: 53.75px;
+        margin-left: 37.986654%;
+        clear: both;
+        height: auto;
+        width: 24.639486%;
+    }
+
+    #image3 {
+        margin-top: 153.875px;
+        margin-left: 17.355143%;
+        clear: both;
+    }
+
+    #image4 {
+        margin-top: 51.375px;
+        margin-left: 17.259115%;
+        clear: both;
+    }
+
+    #box2 {
+        margin-top: 64.90625px;
+        margin-left: 8.990072%;
+        clear: both;
+    }
+}
+
+@media only screen and (max-width: 760px) {
+    #text {
+        font-size: 2.5em;
+        height: auto;
+        width: 25.793586%;
+        margin-top: 29px;
+        margin-left: 37.277961%;
+        clear: none;
+    }
+
+    #image {
+        margin-top: 28px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #text1 {
+        margin-top: 16px;
+        margin-left: 40.265214%;
+        clear: both;
+        font-size: 1.2em;
+    }
+
+    #text2 {
+        margin-top: 14.125px;
+        margin-left: 14.662829%;
+        clear: both;
+        font-size: 0.8em;
+        height: auto;
+        width: 31.360447%;
+        min-height: 0px;
+    }
+
+    #box {
+        margin-top: 13.1875px;
+        margin-left: 8.731497%;
+        clear: both;
+        height: 2px;
+    }
+
+    #text3 {
+        margin-top: 13.25px;
+        margin-left: 45.065789%;
+        clear: both;
+        font-size: 1.2em;
+        height: auto;
+        min-height: 0px;
+        width: 10.328947%;
+    }
+
+    #image2 {
+        margin-top: 14.3125px;
+        margin-left: 8.731497%;
+        clear: both;
+        height: auto;
+        width: auto;
+        max-width: 37.162829%;
+    }
+
+    #text5 {
+        margin-top: 13px;
+        margin-left: 45.065789%;
+        clear: both;
+        font-size: 1.2em;
+        height: auto;
+        width: 11.091694%;
+    }
+
+    #image3 {
+        margin-top: 14.25px;
+        margin-left: 15.748355%;
+        clear: both;
+        height: auto;
+        width: auto;
+        max-width: 30.05551%;
+    }
+
+    #image4 {
+        margin-top: 2.171875px;
+        margin-left: 15.748355%;
+        clear: both;
+        height: auto;
+        width: auto;
+        max-width: 30.032895%;
+    }
+
+    #text6 {
+        margin-top: -228.421875px;
+        margin-left: 7.356086%;
+        clear: none;
+        font-size: 0.8em;
+        height: auto;
+        min-height: 228.421875px;
+        margin-right: 0%;
+    }
+
+    #image1 {
+        margin-top: 14.125px;
+        margin-left: 8.238046%;
+        clear: none;
+        height: auto;
+        width: auto;
+        max-width: 37.19778%;
+    }
+
+    #textspan {
+        font-size: 1em;
+    }
+
+    #text4 {
+        margin-top: 14.3125px;
+        margin-left: 8.361431%;
+        clear: none;
+        font-size: 0.8em;
+        height: auto;
+        width: 31.074584%;
+        min-height: 0px;
+    }
+
+    #textspan1 {
+        font-size: 1em;
+    }
+
+    #textspan4 {
+        font-size: 1em;
+    }
+
+    #box1 {
+        margin-top: 13px;
+        margin-left: 8.497122%;
+        clear: both;
+        height: 2px;
+        width: 82.933693%;
+        display: block;
+        margin-right: 0%;
+    }
+
+    #box2 {
+        margin-top: 45.078125px;
+        margin-left: 8.527961%;
+        clear: both;
+        height: 2px;
+        width: 82.933693%;
+        display: block;
+        margin-right: 0%;
+    }
+
+    #textspan2 {
+        float: none;
+        font-size: 1em;
+        line-height: 1em;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #text2 {
+        height: auto;
+        margin-top: 14.125px;
+        margin-left: 14.664714%;
+        clear: both;
+        width: 31.354167%;
+        text-align: justify;
+    }
+
+    #box {
+        margin-top: 13.1875px;
+        margin-left: 8.730469%;
+        clear: both;
+    }
+
+    #text {
+        height: auto;
+        width: 40.791016%;
+        margin-top: 29px;
+        margin-left: 29.550781%;
+        clear: none;
+    }
+
+    #image {
+        margin-top: 28px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #text1 {
+        margin-top: 16px;
+        margin-left: 34.615885%;
+        clear: both;
+    }
+
+    #text3 {
+        margin-top: 14px;
+        margin-left: 42.044271%;
+        clear: both;
+        height: auto;
+        width: 15.914714%;
+    }
+
+    #image2 {
+        margin-top: 13.5625px;
+        margin-left: 8.730469%;
+        clear: both;
+    }
+
+    #box1 {
+        margin-top: 13px;
+        margin-left: 8.496094%;
+        clear: both;
+    }
+
+    #text5 {
+        margin-top: 12.5px;
+        margin-left: 42.044271%;
+        clear: both;
+        height: auto;
+        width: 16.484375%;
+    }
+
+    #image3 {
+        margin-top: 17.828125px;
+        margin-left: 15.865885%;
+        clear: both;
+    }
+
+    #image4 {
+        margin-top: 18.078125px;
+        margin-left: 15.865885%;
+        clear: both;
+        margin-right: 0%;
+    }
+
+    #box2 {
+        margin-top: 16.28125px;
+        margin-left: 8.837891%;
+        clear: both;
+    }
+
+    #textspan {
+        font-size: 0.8em;
+    }
+
+    #text4 {
+        margin-top: 13.5625px;
+        margin-left: 8.359375%;
+        clear: none;
+        text-align: justify;
+    }
+
+    #text6 {
+        margin-top: -144.265625px;
+        margin-left: 8.479818%;
+        clear: none;
+    }
+
+    #textspan2 {
+        float: none;
+        font-size: 0.8em;
+        line-height: 1em;
+    }
+
+    #textspan4 {
+        font-size: 0.8em;
+    }
+
+    #textspan3 {
+        float: none;
+        font-size: 0.8em;
+        line-height: 1em;
+    }
+}
+
